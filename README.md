@@ -6,14 +6,14 @@
 
 ## Step 2: reconstruct the Git repo with only the current content
 
-`git init
-git add .
-git commit -m "Initial commit"`
+`git init`
+`git add .`
+`git commit -m "Initial commit"`
 
 ## Step 3: push to GitHub.
 
-`git remote add origin <github-uri>
-git push -u --force origin master`
+`git remote add origin <github-uri>`
+`git push -u --force origin master`
 
 # git rename branch name
 
