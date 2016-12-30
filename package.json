@@ -1,0 +1,24 @@
+{
+  "name": "vajrapashmina.com",
+  "version": "1.0.0",
+  "description": "Repository for vajrapashmina.com",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tuladhasum/VajraPash.git"
+  },
+  "keywords": [
+    "vajrapashmina"
+  ],
+  "author": "Sumit Tuladhar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tuladhasum/VajraPash/issues"
+  },
+  "homepage": "https://github.com/tuladhasum/VajraPash#readme",
+  "devDependencies": {
+    "http-server": "^0.9.0"
+  }
+}
