@@ -1,4 +1,4 @@
-# TO remove any previous history of git commits and do a clean push
+# Remove previous git history
 
 ## Step 1: remove all history
 
